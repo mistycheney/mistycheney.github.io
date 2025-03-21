@@ -10,6 +10,9 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ### This is a header
 
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
+
 #### Some T-SQL Code
 
 ```tsql
